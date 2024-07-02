@@ -29,6 +29,7 @@ body{
 .logo {
     width: 120px;
     height: 40px;
+    object-fit: contain;
 }
 .nav-item{
     padding: 5px;
